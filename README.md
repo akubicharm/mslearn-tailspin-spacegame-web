@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/keomizo/Space%20Game%20-web-%20workflow/_apis/build/status/akubicharm.mslearn-tailspin-spacegame-web?branchName=feature%2Fhome-page-text)](https://dev.azure.com/keomizo/Space%20Game%20-web-%20workflow/_build/latest?definitionId=2&branchName=feature%2Fhome-page-text)
 
 # Contributing
 
